@@ -32,8 +32,7 @@ PyQt5界面，Scrapy+Selenium将爬取的信息保存到Excel文件
 
    运行里面的main.py文件即可
 
-![image](https://github.com/NearHuiwen/ExcelCrawl/blob/%E8%AF%B4%E6%98%8E%E6%B7%BB%E5%8A%A0/images-folder/yunxing.png)
-
+![image](https://github.com/NearHuiwen/ExcelCrawl/blob/%E8%AF%B4%E6%98%8E%E6%B7%BB%E5%8A%A0/images-folder/yunxing.png) 
 
 
 例子：这里我给大家留了一个text.xlsx用来测试
